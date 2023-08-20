@@ -1,0 +1,23 @@
+nav {
+  padding: 20px !important;
+}
+
+@media screen and (max-width: 600px) {
+  .carousel-title {
+    font-size: 10px;
+  }
+  .carousel-paragraph {
+    font-size: 9px;
+  }
+}
+
+form {
+  width: 80%;
+  max-width: 800px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
